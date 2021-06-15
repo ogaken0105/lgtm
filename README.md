@@ -4,3 +4,4 @@ testで編集しました。
 
 mainで編集。git pull練習用
 
+aiueoで編集
